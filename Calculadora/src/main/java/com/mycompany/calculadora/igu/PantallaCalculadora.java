@@ -10,7 +10,7 @@ public class PantallaCalculadora extends javax.swing.JFrame {
 
     public PantallaCalculadora() {
         initComponents();
-        this.setTitle("Calculadora");
+        this.setTitle("Programa Calculadora");
     }
 
     // UIManager.setLookAndFeel("");
